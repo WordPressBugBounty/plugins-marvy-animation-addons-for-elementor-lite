@@ -3,8 +3,8 @@ Contributors: iqonicdesign
 Tags: background animation, elementor, elementor animation, elementor addons, particles
 Requires PHP: 7.4
 Requires at least: 3.0.1
-Tested up to: 6.4.1
-Stable tag: 1.7.2.2
+Tested up to: 6.7.1
+Stable tag: 1.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,9 +18,9 @@ Marvy is the ultimate Elementor Animation add-on preset plugin. Shatter your Ele
 
  ## How people use Marvy Animations
 
--  [Xamin](https://wordpress.iqonic.design/xamin-elementor/dashboard-4/)
--  [Umetric](https://wordpress.iqonic.design/umetric/mobile-apps-reporting/)
--  [Consultab](https://wordpress.iqonic.design/consultab-elementor/consultant/)
+-  [Xamin](https://wordpress.iqonic.design/product/wp/xamin-elementor/data-analytics-news)
+-  [Umetric](https://wordpress.iqonic.design/product/wp/umetric/school-reporting)
+-  [Consultab](https://wordpress.iqonic.design/consultab-elementor/consultant)
 
 ###  [Check out live demo](https://wordpress.iqonic.design/product/plugin/marvy/) | [Documentation](https://wordpress.iqonic.design/docs/product/marvy-documentation/getting-started/) | [PRO](https://codecanyon.net/item/marvy-background-animations-for-elementor/28285063)
 
@@ -77,6 +77,9 @@ Yes, we will love to hear from you at <a href="mailto:hello@iqonic.design">hello
 
 
 == Changelog ==
+= 1.7.3 - 06/12/2024
+* Bug Fix
+* WordPress Stable Update
 
 = 1.7.2.2 - 16/11/2023
 * Bug Fix

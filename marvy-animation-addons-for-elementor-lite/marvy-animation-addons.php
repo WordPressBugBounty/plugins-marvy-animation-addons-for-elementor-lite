@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              https://iqonic.design/
- * @since             1.7.2.2
+ * @since             1.7.3
  * @package           Marvy_Animation_Addons
  *
  * @wordpress-plugin
  * Plugin Name:       Marvy - Ultimate Elementor Animation addons
  * Plugin URI:        https://iqonicthemes.com
  * Description:       Marvy is the best solution for users who need beautiful animations for creative and professional projects.
- * Version:           1.7.2.2
+ * Version:           1.7.3
  * Author:            Iqonic Design
  * Author URI:        https://iqonic.design/
  * Text Domain:       marvy-animation-addons-for-elementor-lite
@@ -33,7 +33,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.7.2 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'MARVY_ANIMATION_ADDONS_VERSION', '1.7.2.2' );
+define( 'MARVY_ANIMATION_ADDONS_VERSION', '1.7.3' );
 define( 'MARVY_ANIMATION_ADDONS_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 define( 'MARVY_ANIMATION_ADDONS_PLUGIN_URL', plugins_url( '/', __FILE__ ) );
 

@@ -3,15 +3,14 @@ Contributors: iqonicdesign
 Tags: background animation, elementor, elementor animation, elementor addons, particles
 Requires PHP: 7.4
 Requires at least: 3.0.1
-Tested up to: 6.7.1
-Stable tag: 1.7.3
+Tested up to: 6.7.2
+Stable tag: 1.7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Marvy is the ultimate Elementor Animation add-on preset plugin. Shatter your Elementor theme with a modern time animation.
 
 == Description ==
-
  Marvy is the best solution for users who need beautiful animations for creative and professional projects. This Elementor plugin for animation contains lots of handy items in many different styles. You can quickly add animation to your design and get the best results in minimum efforts.
 
  Marvy is carefully created to fit your needs. We bet this Animation plugin will be extremely handy tool for your upcoming projects. Additionally, Marvy is well organized and very easy to customize.
@@ -77,6 +76,10 @@ Yes, we will love to hear from you at <a href="mailto:hello@iqonic.design">hello
 
 
 == Changelog ==
+
+= 1.7.4 - 07/04/2025
+* Bug Fix
+
 = 1.7.3 - 06/12/2024
 * Bug Fix
 * WordPress Stable Update
@@ -157,3 +160,4 @@ Yes, we will love to hear from you at <a href="mailto:hello@iqonic.design">hello
 = 1.0.0 - 04/09/2020 =
 
 * Initial stable release
+

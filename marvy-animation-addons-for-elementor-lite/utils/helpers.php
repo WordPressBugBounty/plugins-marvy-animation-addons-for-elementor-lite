@@ -2,6 +2,36 @@
 
 use Elementor\Plugin;
 
+/***
+ * @return array
+ */
+function get_common_color_array(){
+    return array(
+        "system_colors"=> [
+            array(
+                "_id" => "primary",
+                "title" => "Primary",
+                "color" => "#6EC1E4"
+            ),
+            array(
+                "_id" => "secondary",
+                "title" => "Secondary",
+                "color" => "#54595F"
+            ),
+            array(
+                "_id" => "text",
+                "title" => "Text",
+                "color" => "#7A7A7A"
+            ),
+            array(
+                "_id" => "accent",
+                "title" => "Accent",
+                "color" => "#61CE70"
+            )
+        ],
+        "custom_colors" => [],
+    );
+}
 
 /***
  * @return array|mixed

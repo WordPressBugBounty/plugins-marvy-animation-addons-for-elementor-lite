@@ -65,6 +65,17 @@ class Marvy_Animation_Addons {
 	 *
 	 * @since    1.7.2
 	 */
+
+	/**
+	 * The plugin config.
+	 *
+	 * @since    1.7.2
+	 * @access   protected
+	 * @var      string    $config    The current version of the plugin.
+	 */
+	protected $config;
+
+	
 	public function __construct() {
 		if ( defined( 'MARVY_ANIMATION_ADDONS_VERSION' ) ) {
 			$this->version = MARVY_ANIMATION_ADDONS_VERSION;

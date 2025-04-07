@@ -95,7 +95,9 @@ class MarvyFancyRotate
 
     $default_post_id = get_option('elementor_active_kit');
     $color =  get_post_meta($default_post_id, '_elementor_page_settings', true);
-
+    if(empty($color)){
+      $color = get_common_color_array();
+    }
     if ($settings['marvy_enable_fancy_rotate'] === 'yes') {
       $marvy_settings =  [
         'data-marvy_enable_fancy_rotate_circle' => 'marvy_enable_fancy_rotate_circle',

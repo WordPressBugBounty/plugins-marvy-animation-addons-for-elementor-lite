@@ -128,13 +128,13 @@ class Marvy_Animation_Addons_Elementor
         if ($elements != '') {
 			$default_post_id = get_option('elementor_active_kit');
 			$color =  get_post_meta($default_post_id, '_elementor_page_settings', true);
-            if(!defined('REST_REQUEST')){
-            ?>
-                <script>
-                var marvyScript = <?php echo json_encode(array('pluginsUrl' => plugin_dir_url(__FILE__), 'color' => $color)); ?>
-                </script>
-            <?php
+            if(empty($color)){
+                $color = get_common_color_array();
             }
+            wp_localize_script('jquery', 'marvyScript', array(
+                'pluginsUrl' => plugin_dir_url(__FILE__),
+                'color' => $color,
+            ));
 		}
     }
 }

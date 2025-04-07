@@ -1,439 +1,395 @@
-#, fuzzy
+# Copyright (C) 2025 Iqonic Design
+# This file is distributed under the same license as the Marvy - Ultimate Elementor Animation addons plugin.
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"Project-Id-Version: Marvy - Ultimate Elementor Animation addons\n"
-"POT-Creation-Date: 2020-12-09 17:52+0530\n"
-"PO-Revision-Date: 2020-12-09 17:52+0530\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Marvy - Ultimate Elementor Animation addons 1.7.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/marvy-animation-addons-for-elementor-lite\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.5\n"
-"X-Poedit-Basepath: ..\n"
-"X-Poedit-WPHeader: marvy-animation-addons.php\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
-"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPathExcluded-0: *.js\n"
+"POT-Creation-Date: 2025-04-07T11:28:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: marvy-animation-addons-for-elementor-lite\n"
 
-#: admin/class-marvy-animation-addons-admin.php:149
-#: admin/class-marvy-animation-addons-admin.php:150
-msgid "Marvy Animation"
+#. Plugin Name of the plugin
+#: marvy-animation-addons.php
+msgid "Marvy - Ultimate Elementor Animation addons"
 msgstr ""
 
-#: admin/class-marvy-animation-addons-admin.php:169
-msgid "Marvy Animation Addons"
+#. Plugin URI of the plugin
+#: marvy-animation-addons.php
+msgid "https://iqonicthemes.com"
 msgstr ""
 
-#: admin/class-marvy-animation-addons-admin.php:179
-msgid "General"
+#. Description of the plugin
+#: marvy-animation-addons.php
+msgid "Marvy is the best solution for users who need beautiful animations for creative and professional projects."
 msgstr ""
 
-#: admin/class-marvy-animation-addons-admin.php:180
-msgid "Animation"
+#. Author of the plugin
+#: marvy-animation-addons.php
+msgid "Iqonic Design"
 msgstr ""
 
-#: admin/view/elements.php:5
+#. Author URI of the plugin
+#: marvy-animation-addons.php
+msgid "https://iqonic.design/"
+msgstr ""
+
+#: admin/view/elements.php:7
 msgid "Basic Animation"
 msgstr ""
 
-#: admin/view/elements.php:9
-msgid "Drop"
+#: admin/view/elements.php:11
+msgid "Drop Animation"
 msgstr ""
 
-#: admin/view/elements.php:14
-msgid "Fancy Rotate"
+#: admin/view/elements.php:17
+msgid "Fancy Rotate Animation"
 msgstr ""
 
-#: admin/view/elements.php:19
-msgid "Flying Object"
-msgstr ""
-
-#: admin/view/elements.php:24
-msgid "Ripples Animation"
+#: admin/view/elements.php:23
+msgid "Flying Object Animation"
 msgstr ""
 
 #: admin/view/elements.php:29
+msgid "Ripples Animation"
+msgstr ""
+
+#: admin/view/elements.php:35
 msgid "Waves Animation"
 msgstr ""
 
-#: admin/view/elements.php:34
+#: admin/view/elements.php:41
 msgid "Rings Animation"
 msgstr ""
 
-#: admin/view/elements.php:39
+#: admin/view/elements.php:47
 msgid "Topology Animation"
 msgstr ""
 
-#: admin/view/elements.php:44
+#: admin/view/elements.php:53
 msgid "Gradient Animation"
 msgstr ""
 
-#: admin/view/elements.php:49
+#: admin/view/elements.php:59
 msgid "Snow Animation"
 msgstr ""
 
-#: admin/view/elements.php:54
+#: admin/view/elements.php:65
+msgid "Firework Animation"
+msgstr ""
+
+#: admin/view/elements.php:71
+msgid "Cloud Animation"
+msgstr ""
+
+#: admin/view/elements.php:77
 msgid "Birds Animation"
 msgstr ""
 
-#: admin/view/elements.php:59
+#: admin/view/elements.php:83
 msgid "Cells Animation"
 msgstr ""
 
-#: admin/view/elements.php:64
+#: admin/view/elements.php:89
 msgid "Dots Animation"
 msgstr ""
 
-#: admin/view/elements.php:69
+#: admin/view/elements.php:95
 msgid "Fog Animation"
 msgstr ""
 
-#: admin/view/elements.php:74
+#: admin/view/elements.php:101
 msgid "Globe Animation"
 msgstr ""
 
-#: admin/view/elements.php:79
+#: admin/view/elements.php:107
 msgid "Halo Animation"
 msgstr ""
 
-#: admin/view/elements.php:84
-msgid "Net Animation"
-msgstr ""
-
-#: admin/view/elements.php:89
-msgid "Trunk Animation"
-msgstr ""
-
-#: admin/view/elements.php:94
-msgid "Fluid Animation"
-msgstr ""
-
-#: admin/view/elements.php:99
-msgid "Digital Stream Animation"
-msgstr ""
-
-#: admin/view/elements.php:104
-msgid "Floating Heart Animation"
-msgstr ""
-
-#: admin/view/elements.php:109
-msgid "Particles Wave Animation"
-msgstr ""
-
-#: admin/view/elements.php:114
-msgid "DNA Animation"
-msgstr ""
-
-#: admin/view/elements.php:158
-msgid "Save settings"
-msgstr ""
-
-#: admin/view/general.php:5 admin/view/general.php:7
+#: admin/view/general.php:5
 msgid "Documentation"
 msgstr ""
 
 #: admin/view/general.php:6
-msgid ""
-"Get started by spending some time with the documentation to get familiar "
-"with Marvy Animation."
+msgid "Get started by spending some time with the documentation to get familiar with Marvy Animation."
 msgstr ""
 
-#: admin/view/general.php:14
-msgid "Need Help?"
-msgstr ""
-
-#: admin/view/general.php:16
-msgid ""
-"We are constantly working to make your experience better. Still faced a "
-"problem? Need assistance ?"
-msgstr ""
-
-#: admin/view/general.php:17
-msgid "Contact Us"
-msgstr ""
-
-#: elementor/animation/MarvyDropAnimation.php:18
-#: elementor/animation/MarvyFancyRotate.php:19
-#: elementor/animation/MarvyFlyingObject.php:19
-#: elementor/animation/MarvyGradientAnimation.php:18
-#: elementor/animation/MarvyRingsAnimation.php:18
-#: elementor/animation/MarvyRipplesAnimation.php:22
-#: elementor/animation/MarvySnowAnimation.php:22
-#: elementor/animation/MarvyTopologyAnimation.php:18
-#: elementor/animation/MarvyWavesAnimation.php:18
+#: elementor/animation/MarvyCloudAnimation.php:22
+#: elementor/animation/MarvyDropAnimation.php:21
+#: elementor/animation/MarvyFancyRotate.php:26
+#: elementor/animation/MarvyFireworkAnimation.php:28
+#: elementor/animation/MarvyFlyingObject.php:22
+#: elementor/animation/MarvyGradientAnimation.php:21
+#: elementor/animation/MarvyRingsAnimation.php:21
+#: elementor/animation/MarvyRipplesAnimation.php:25
+#: elementor/animation/MarvySnowAnimation.php:25
+#: elementor/animation/MarvyTopologyAnimation.php:21
+#: elementor/animation/MarvyWavesAnimation.php:21
 msgid "<div style=\"float: right\"><img src=\""
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:25
+#: elementor/animation/MarvyCloudAnimation.php:29
+msgid "Enable Cloud Animation"
+msgstr ""
+
+#: elementor/animation/MarvyCloudAnimation.php:36
+msgid "Background"
+msgstr ""
+
+#: elementor/animation/MarvyCloudAnimation.php:47
+msgid "Sky Color"
+msgstr ""
+
+#: elementor/animation/MarvyCloudAnimation.php:58
+msgid "Cloud Color"
+msgstr ""
+
+#: elementor/animation/MarvyCloudAnimation.php:69
+msgid "Light Color"
+msgstr ""
+
+#: elementor/animation/MarvyCloudAnimation.php:80
+msgid "Cloud Speed"
+msgstr ""
+
+#: elementor/animation/MarvyDropAnimation.php:28
 msgid "Enable Drops Animation"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:33
+#: elementor/animation/MarvyDropAnimation.php:36
 msgid "Shape Type"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:37
+#: elementor/animation/MarvyDropAnimation.php:40
 msgid "Dot With Line"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:38
+#: elementor/animation/MarvyDropAnimation.php:41
 msgid "Only Line"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:39
+#: elementor/animation/MarvyDropAnimation.php:42
 msgid "Only Dot"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:40
+#: elementor/animation/MarvyDropAnimation.php:43
 msgid "Candle Shape"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:51
+#: elementor/animation/MarvyDropAnimation.php:54
 msgid "Line Color First"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:64
+#: elementor/animation/MarvyDropAnimation.php:67
 msgid "Line Color Second"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:77
+#: elementor/animation/MarvyDropAnimation.php:80
 msgid "Dot Color"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:90
+#: elementor/animation/MarvyDropAnimation.php:93
 msgid "Dot Size"
 msgstr ""
 
-#: elementor/animation/MarvyDropAnimation.php:106
-msgid "Speed"
-msgstr ""
-
-#: elementor/animation/MarvyFancyRotate.php:26
+#: elementor/animation/MarvyFancyRotate.php:34
 msgid "Enable Fancy Rotate Animation"
 msgstr ""
 
-#: elementor/animation/MarvyFancyRotate.php:33
+#: elementor/animation/MarvyFancyRotate.php:42
 msgid "Show Circle"
 msgstr ""
 
-#: elementor/animation/MarvyFancyRotate.php:44
+#: elementor/animation/MarvyFancyRotate.php:54
 msgid "Show Particle"
 msgstr ""
 
-#: elementor/animation/MarvyFancyRotate.php:56
+#: elementor/animation/MarvyFancyRotate.php:66
 msgid "First Particle Color"
 msgstr ""
 
-#: elementor/animation/MarvyFancyRotate.php:69
+#: elementor/animation/MarvyFancyRotate.php:79
 msgid "Second Particle Color"
 msgstr ""
 
-#: elementor/animation/MarvyFlyingObject.php:26
-msgid "Enable Flying Object Animation"
+#: elementor/animation/MarvyFireworkAnimation.php:35
+msgid "Enable Firework Animation"
 msgstr ""
 
-#: elementor/animation/MarvyFlyingObject.php:34
-msgid "Shape"
+#: elementor/animation/MarvyFireworkAnimation.php:43
+msgid "Circle Min Size"
 msgstr ""
 
-#: elementor/animation/MarvyFlyingObject.php:38
-msgid "Square"
+#: elementor/animation/MarvyFireworkAnimation.php:55
+msgid "Circle Max Size"
 msgstr ""
 
-#: elementor/animation/MarvyFlyingObject.php:39
-msgid "Circle"
-msgstr ""
-
-#: elementor/animation/MarvyFlyingObject.php:50
-#: elementor/animation/MarvySnowAnimation.php:66
-#: elementor/animation/MarvyTopologyAnimation.php:33
-#: elementor/animation/MarvyWavesAnimation.php:33
-msgid "Color"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:25
-msgid "Enable Gradient Background"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:33
-msgid "Color 1"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:45
-msgid "Color 2"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:57
-msgid "Color 3"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:69
-msgid "Color 4"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:81
-msgid "Angle"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:85
-msgid "Right Bottom To Left Top"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:86
-msgid "Right To Left"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:87
-msgid "Right Top To Left Bottom"
-msgstr ""
-
-#: elementor/animation/MarvyGradientAnimation.php:98
-msgid "Duration"
-msgstr ""
-
-#: elementor/animation/MarvyRingsAnimation.php:25
-msgid "Enable Rings Animation"
-msgstr ""
-
-#: elementor/animation/MarvyRingsAnimation.php:33
-msgid "Rings Random Color"
-msgstr ""
-
-#: elementor/animation/MarvyRingsAnimation.php:45
-#: elementor/animation/MarvyTopologyAnimation.php:45
+#: elementor/animation/MarvyFireworkAnimation.php:67
+#: elementor/animation/MarvyRingsAnimation.php:48
+#: elementor/animation/MarvyTopologyAnimation.php:48
 msgid "Background Color"
 msgstr ""
 
-#: elementor/animation/MarvyRingsAnimation.php:57
+#: elementor/animation/MarvyFireworkAnimation.php:76
+msgid "Color Variant"
+msgstr ""
+
+#: elementor/animation/MarvyFireworkAnimation.php:81
+msgid "Single"
+msgstr ""
+
+#: elementor/animation/MarvyFireworkAnimation.php:85
+msgid "Multiple"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:28
+msgid "Enable Gradient Background"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:36
+msgid "Color 1"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:48
+msgid "Color 2"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:60
+msgid "Color 3"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:72
+msgid "Color 4"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:84
+msgid "Angle"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:88
+msgid "Right Bottom To Left Top"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:89
+msgid "Right To Left"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:90
+msgid "Right Top To Left Bottom"
+msgstr ""
+
+#: elementor/animation/MarvyGradientAnimation.php:101
+msgid "Duration"
+msgstr ""
+
+#: elementor/animation/MarvyRingsAnimation.php:28
+msgid "Enable Rings Animation"
+msgstr ""
+
+#: elementor/animation/MarvyRingsAnimation.php:36
+msgid "Rings Random Color"
+msgstr ""
+
+#: elementor/animation/MarvyRingsAnimation.php:60
 msgid "Background Opacity"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:29
+#: elementor/animation/MarvyRipplesAnimation.php:32
 msgid "Enable Ripples Animation"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:37
+#: elementor/animation/MarvyRipplesAnimation.php:40
 msgid "Circle Color"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:49
-#: elementor/animation/MarvySnowAnimation.php:52
+#: elementor/animation/MarvyRipplesAnimation.php:52
+#: elementor/animation/MarvySnowAnimation.php:55
 msgid "Size"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:64
+#: elementor/animation/MarvyRipplesAnimation.php:67
 msgid "Position"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:68
+#: elementor/animation/MarvyRipplesAnimation.php:71
 msgid "Left"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:69
+#: elementor/animation/MarvyRipplesAnimation.php:72
 msgid "Top"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:70
+#: elementor/animation/MarvyRipplesAnimation.php:73
 msgid "Right"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:71
+#: elementor/animation/MarvyRipplesAnimation.php:74
 msgid "Bottom"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:72
+#: elementor/animation/MarvyRipplesAnimation.php:75
 msgid "Top Left"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:73
+#: elementor/animation/MarvyRipplesAnimation.php:76
 msgid "Top Right"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:74
+#: elementor/animation/MarvyRipplesAnimation.php:77
 msgid "Bottom Right"
 msgstr ""
 
-#: elementor/animation/MarvyRipplesAnimation.php:75
+#: elementor/animation/MarvyRipplesAnimation.php:78
 msgid "Bottom Left"
 msgstr ""
 
-#: elementor/animation/MarvySnowAnimation.php:29
+#: elementor/animation/MarvySnowAnimation.php:32
 msgid "Enable Snow Animation"
 msgstr ""
 
-#: elementor/animation/MarvySnowAnimation.php:37
+#: elementor/animation/MarvySnowAnimation.php:40
 msgid "Count"
 msgstr ""
 
-#: elementor/animation/MarvySnowAnimation.php:78
+#: elementor/animation/MarvySnowAnimation.php:69
+#: elementor/animation/MarvyTopologyAnimation.php:36
+#: elementor/animation/MarvyWavesAnimation.php:36
+msgid "Color"
+msgstr ""
+
+#: elementor/animation/MarvySnowAnimation.php:81
 msgid "Shadow Color"
 msgstr ""
 
-#: elementor/animation/MarvySnowAnimation.php:90
+#: elementor/animation/MarvySnowAnimation.php:93
 msgid "Shadow Size"
 msgstr ""
 
-#: elementor/animation/MarvyTopologyAnimation.php:25
+#: elementor/animation/MarvyTopologyAnimation.php:28
 msgid "Enable Topology Animation"
 msgstr ""
 
-#: elementor/animation/MarvyWavesAnimation.php:25
+#: elementor/animation/MarvyWavesAnimation.php:28
 msgid "Enable Waves Animation"
 msgstr ""
 
-#: elementor/animation/MarvyWavesAnimation.php:45
+#: elementor/animation/MarvyWavesAnimation.php:48
 msgid "Shininess"
 msgstr ""
 
-#: elementor/animation/MarvyWavesAnimation.php:60
-msgid "Wave Height"
-msgstr ""
-
-#: elementor/animation/MarvyWavesAnimation.php:75
-msgid "Wave Speed"
-msgstr ""
-
-#: elementor/animation/MarvyWavesAnimation.php:90
-msgid "Zoom"
-msgstr ""
-
-#: marvy-animation-addons.php:94
+#: marvy-animation-addons.php:103
 msgid "Settings"
 msgstr ""
 
-#: marvy-animation-addons.php:95
+#: marvy-animation-addons.php:104
 msgid "Docs"
 msgstr ""
 
-#: marvy-animation-addons.php:97
+#: marvy-animation-addons.php:106
 msgid "Get Pro"
-msgstr ""
-
-#. Plugin Name of the plugin/theme
-msgid "Marvy - Ultimate Elementor Animation addons"
-msgstr ""
-
-#. Plugin URI of the plugin/theme
-msgid "https://iqonicthemes.com"
-msgstr ""
-
-#. Description of the plugin/theme
-msgid ""
-"Marvy is the best solution for users who need beautiful animations for "
-"creative and professional projects. This Elementor plugin for animation "
-"contains lots of handy items in many different styles. You can quickly add "
-"animation to your design and get the best results in minimum efforts."
-msgstr ""
-
-#. Author of the plugin/theme
-msgid "Iqonic Design"
-msgstr ""
-
-#. Author URI of the plugin/theme
-msgid "https://iqonic.design/"
 msgstr ""

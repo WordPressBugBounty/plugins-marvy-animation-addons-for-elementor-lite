@@ -21,7 +21,7 @@ Marvy is the ultimate Elementor Animation add-on preset plugin. Shatter your Ele
 -  [Umetric](https://wordpress.iqonic.design/product/wp/umetric/school-reporting)
 -  [Consultab](https://wordpress.iqonic.design/consultab-elementor/consultant)
 
-###  [Check out live demo](https://wordpress.iqonic.design/product/plugin/marvy/) | [Documentation](https://wordpress.iqonic.design/docs/product/marvy-documentation/getting-started/) | [PRO](https://codecanyon.net/item/marvy-background-animations-for-elementor/28285063)
+###  [Check out live demo](https://marvy.iqonic.design/) | [Documentation](https://apps.iqonic.design/docs/product/marvy-documentation/getting-started/) | [PRO](https://codecanyon.net/item/marvy-background-animations-for-elementor/28285063)
 
 
 https://www.youtube.com/watch?v=HufBgKESf5Q

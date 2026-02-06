@@ -3,23 +3,23 @@ Contributors: iqonicdesign
 Tags: background animation, elementor, elementor animation, elementor addons, particles
 Requires PHP: 7.4
 Requires at least: 3.0.1
-Tested up to: 6.7.2
-Stable tag: 1.7.4
+Tested up to: 6.8.3
+Stable tag: 1.7.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Marvy is the ultimate Elementor Animation add-on preset plugin. Shatter your Elementor theme with a modern time animation.
+Marvy is the ultimate animation add-on for Elementor. Bring your pages to life with next-generation animation effects and seamless Elementor integration.
 
 == Description ==
+ 
  Marvy is the best solution for users who need beautiful animations for creative and professional projects. This Elementor plugin for animation contains lots of handy items in many different styles. You can quickly add animation to your design and get the best results in minimum efforts.
 
  Marvy is carefully created to fit your needs. We bet this Animation plugin will be extremely handy tool for your upcoming projects. Additionally, Marvy is well organized and very easy to customize.
 
  ## How people use Marvy Animations
 
--  [Xamin](https://wordpress.iqonic.design/product/wp/xamin-elementor/data-analytics-news)
--  [Umetric](https://wordpress.iqonic.design/product/wp/umetric/school-reporting)
--  [Consultab](https://wordpress.iqonic.design/consultab-elementor/consultant)
+-  [Xamin](https://xamin-wordpress.iqonic.design/dashboard-2/)
+-  [Umetric](https://umetric-wordpress.iqonic.design/mobile-apps-reporting/)
 
 ###  [Check out live demo](https://marvy.iqonic.design/) | [Documentation](https://apps.iqonic.design/docs/product/marvy-documentation/getting-started/) | [PRO](https://codecanyon.net/item/marvy-background-animations-for-elementor/28285063)
 
@@ -76,6 +76,9 @@ Yes, we will love to hear from you at <a href="mailto:hello@iqonic.design">hello
 
 
 == Changelog ==
+
+= 1.7.5 - 11/10/2025
+* Compatibility: Now compatible with WordPress 6.8.3
 
 = 1.7.4 - 07/04/2025
 * Bug Fix
@@ -160,4 +163,3 @@ Yes, we will love to hear from you at <a href="mailto:hello@iqonic.design">hello
 = 1.0.0 - 04/09/2020 =
 
 * Initial stable release
-
